@@ -1,0 +1,22 @@
+Input:
+
+	Ask User to Input length of roof in feet (ft). 
+		Print the Length (L)
+	Ask User to Input length of roof in feet (ft). 
+		Print the Width  (W)
+	Ask User the rainfall inches (in).
+		Print the rainfall
+Process:
+
+	Convert the length of the roof from feet(ft) to inches (in) by multiplying by 12
+		Print the result
+	Convert the width of the roof from feet(ft) to inches (in) by multiplying by 12
+		Print the result
+	Multiply the dimensions of the roof:
+		Width*Length*Rainfall
+			Print Result
+	then, convert result to # of gallons by dividing result of roof dimensions
+		Print Result
+	
+	
+	
